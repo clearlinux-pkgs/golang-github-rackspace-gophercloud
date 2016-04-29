@@ -4,7 +4,7 @@
 #
 Name     : golang-github-rackspace-gophercloud
 Version  : c54bbac81d19eb4df3ad167764dbb6ff2e7194de
-Release  : 1
+Release  : 2
 URL      : https://github.com/rackspace/gophercloud/archive/c54bbac81d19eb4df3ad167764dbb6ff2e7194de.tar.gz
 Source0  : https://github.com/rackspace/gophercloud/archive/c54bbac81d19eb4df3ad167764dbb6ff2e7194de.tar.gz
 Summary  : No detailed summary available
